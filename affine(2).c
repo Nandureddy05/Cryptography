@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int modInverse(int a, int m) {
 }
 
